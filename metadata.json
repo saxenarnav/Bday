@@ -1,6 +1,0 @@
-{
-  "name": "Birthday Party Website",
-  "description": "An elegant single-page birthday party countdown and video wish uploader website.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
